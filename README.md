@@ -5,6 +5,8 @@
 * 步驟四：Clean-up text 的 Remove punctuation，請取消勾選，這樣才能上特殊字元留在訓練清單上
 * 步驟五：點選右下角的 DONE，開始訓練，請將速度提升到平均 wpm30，可到 40 最好
 
+重要部分：練習時，請留意都是小寫文字，所以請切換大小寫，網頁系統才會判你字元是正確的。
+
 ```
 !  link:css script script:src
 html body div span h1 h2 h3 h4 h5 h6 p a address em img ol ul li form label  table tr th td article aside figure  footer header menu nav section video 
