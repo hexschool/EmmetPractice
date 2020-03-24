@@ -1,4 +1,4 @@
-# 使用方式
+# 使用方式 ([YouTube 影片步驟教學](https://youtu.be/1x11UuDkigc))
 * 步驟一：連到[官網](https://www.keybr.com/)，點選右上角的齒輪 SETTINGS
 * 步驟二：Learning Mode > Advanced Mode > Provide your own custom text
 * 步驟三：複製下方訓練菜單，並貼到指示貼上處。
